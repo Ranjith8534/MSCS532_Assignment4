@@ -18,6 +18,11 @@ This project focuses on the implementation and analysis of **Heap Data Structure
 
 The performance of Heapsort is compared with **Quicksort** and **Merge Sort** under different input conditions to evaluate efficiency and scalability.
 
+###  Technologies Used
+
+- Python 3
+- Heap Data Structure
+- Algorithm Analysis Techniques
 
 ###  Implemented Components
 
@@ -47,8 +52,6 @@ Each task contains:
 - Priority  
 - Arrival time  
 - Deadline  
-
----
 
 ###  Experimental Setup
 
