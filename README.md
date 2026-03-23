@@ -1,4 +1,4 @@
-## Assignment 4: Heap Data Structures: Implementation, Analysis, and Applications
+### Assignment 4: Heap Data Structures: Implementation, Analysis, and Applications
 
 **Name:** Ranjith Kumar Bollam  
 **Course:** MSCS-532 – Algorithms and Data Structures  
