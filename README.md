@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Overview
+### Overview
 
 This project focuses on the implementation and analysis of **Heap Data Structures**, specifically:
 
@@ -18,9 +18,8 @@ This project focuses on the implementation and analysis of **Heap Data Structure
 
 The performance of Heapsort is compared with **Quicksort** and **Merge Sort** under different input conditions to evaluate efficiency and scalability.
 
----
 
-## ⚙️ Implemented Components
+###  Implemented Components
 
 ### 1. Heapsort
 
@@ -33,7 +32,6 @@ The performance of Heapsort is compared with **Quicksort** and **Merge Sort** un
 - Average Case: O(n log n)
 - Worst Case: O(n log n)
 
----
 
 ### 2. Priority Queue (Max-Heap)
 
@@ -52,7 +50,7 @@ Each task contains:
 
 ---
 
-## 🧪 Experimental Setup
+###  Experimental Setup
 
 Algorithms were tested using arrays of sizes:
 
@@ -66,57 +64,40 @@ Data conditions:
 - Sorted arrays  
 - Reverse-sorted arrays  
 
----
-
-## 📊 Key Observations
+###  Key Observations
 
 - Heapsort provides **consistent performance** across all input types  
 - Quicksort is faster on average but **sensitive to input order**  
 - Merge Sort is stable but uses **additional memory**  
 - Priority Queue efficiently processes tasks based on priority  
 
----
 
-## ▶️ How to Run the Code
+###  How to Run the Code
 
 ### Step 1: Clone Repository
-```bash
 git clone https://github.com/Ranjith8534/MSCS532_Assignment4.git
-```
 
 ### Step 2: Navigate to Folder
-```bash
 cd MSCS532_Assignment4
-```
 
 ### Step 3: Run Program
-```bash
 python test.py
-```
 
----
-
-## 📌 Output
-
+###  Output
 The program displays:
 
 - Execution times for Heapsort, Quicksort, and Merge Sort  
 - Performance comparison across datasets  
 - Priority Queue task scheduling results  
 
----
 
-## 📂 Files Included
+###  Files Included
 
 - `heapsort.py` → Heapsort implementation  
 - `priority_queue.py` → Priority Queue implementation  
 - `test.py` → Testing and comparison script  
 - `README.md` → Project documentation  
 
----
-
-## ✅ Conclusion
+###  Conclusion
 
 This project demonstrates that heap-based algorithms provide reliable and predictable performance. Heapsort ensures consistent time complexity, while priority queues enable efficient task scheduling. Understanding these structures is essential for building scalable and efficient systems.
-
----
